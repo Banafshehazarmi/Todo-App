@@ -1,0 +1,30 @@
+.navbar {
+  position: fixed;
+  align-items: center;
+  top: 300;
+  right: 300;
+  padding: 10px;
+  color: #fff;
+  z-index: 1000;
+  margin-top: 30px;
+  margin-left: 100px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar li {
+  margin-top: 20px;
+  display: inline;
+}
+
+.navbar li a {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #020202;
+  text-decoration: none;
+  margin: 10px;
+  margin-top: 100px;
+}

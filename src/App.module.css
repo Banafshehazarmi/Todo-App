@@ -1,0 +1,40 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.content {
+  width: 33%;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.rounded-box {
+  background-color: #ebf1f1;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 60px;
+  padding-left: 50px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 400px;
+  height: 400px;
+}
+
+.rounded-box2 {
+  background-color: hsl(310, 18%, 93%);
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 60px;
+  padding-left: 50px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 400px;
+  height: 400px;
+}
